@@ -11,7 +11,7 @@ print("My name is julien werzowa")
 #additional greeting
 print("what's up")
 print("Hello, my name is Christian Coppedge")
-
+print("Hope you have a good week")
 
 M1 = "My name is Lenny Graham. "
 print(M1)
