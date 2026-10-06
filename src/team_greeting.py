@@ -1,6 +1,9 @@
-Code creators: Andreas Chacon, 
+Code creators: Andreas Chacon, Julien werzoa, Christian Coppedge, Lenny Graham, Michael Nusbietel
 
+#this line prints my name, Andreas chacon
 print ("My name is Andreas Chacon")
+#additional Greeting
+print ("yo!")
 
 # the line will print my name, julien werzowa
 print("My name is julien werzowa")
