@@ -1,4 +1,0 @@
-M1 = "Lenny Graham"
-print(M1)
-M2 = "Christian Coppedge"
-print(M2)
