@@ -1,1 +1,7 @@
 Put code for TEAM GREETING.PY
+M1 = "The members in my team are Lenny Graham, "
+M2 = ", "
+M3 = ", "
+M4 = ", "
+M5 = ", "
+print(M1,M2,M3,M4,M5)
