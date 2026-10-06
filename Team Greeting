@@ -1,0 +1,2 @@
+M1 = "Lenny Graham"
+print(M1)
