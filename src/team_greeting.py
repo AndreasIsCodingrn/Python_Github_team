@@ -5,11 +5,13 @@ print ("My name is Andreas Chacon")
 #additional Greeting
 print ("yo!")
 
+
 # the line will print my name, julien werzowa
 print("My name is julien werzowa")
 #additional greeting
 print("what's up")
-
+print("Hello, my name is Christian Coppedge")
+print("Hope you have a good week")
 
 M1 = "My name is Lenny Graham. "
 print(M1)
