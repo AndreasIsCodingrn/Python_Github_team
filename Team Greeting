@@ -4,3 +4,5 @@ M23 = "Hello Class"
 print(M23)
 M1 = "Lenny Graham"
 print(M1)
+M2 = "Christian Coppedge"
+print(M2)
