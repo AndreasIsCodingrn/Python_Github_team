@@ -1,2 +1,6 @@
+M22 = "Michael Nusbietel"
+print(M22)
+M23 = "Hello Class"
+print(M23)
 M1 = "Lenny Graham"
 print(M1)
